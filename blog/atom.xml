@@ -5,8 +5,8 @@ layout: feed
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>Daniela Robles'Blog</title>
-	<link href="http://danielar7348.github.io/blog/atom.xml" rel="self"/>
-	<link href="http://danielar7348.github.io/blog"/>
+	<link href="http://Daniela Robles.github.io/blog/atom.xml" rel="self"/>
+	<link href="http://Daniela Robles.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://danielar7348.github.io/blog</id>
 	<author>
