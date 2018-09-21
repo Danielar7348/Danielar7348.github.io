@@ -5,7 +5,7 @@ date: 2014-04-30
 ---
 
 Your first impressions of the class
-My first impression of the class was in how intresting computer sci
+My first impression of the class was in how intresting computer science.
 
 Anything you learned
 
