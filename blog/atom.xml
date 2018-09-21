@@ -11,7 +11,7 @@ layout: feed
 	<id>http://danielar7348.github.io/blog</id>
 	<author>
 		<name>Daniela Robles</name>
-		<email>danielar7348@afsenyc.org</email>
+		<email>dDanielaRobles@gmail.com
 	</author>
 
 	{% for post in site.posts %}
