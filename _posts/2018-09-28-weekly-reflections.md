@@ -1,5 +1,5 @@
 ---
-layout:post 
+layout: post 
 title: My Second Weelkly Reflection 
 date: 2018-09-28
 ---
