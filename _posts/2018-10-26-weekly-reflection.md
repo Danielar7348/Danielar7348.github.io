@@ -1,5 +1,5 @@
 ---
-layout:post 
+layout: post 
 title: My reflection of this week"
 date: 2018-10-26
 ---
