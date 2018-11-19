@@ -1,6 +1,6 @@
 ---
 layout: post
-title:"My seventh weekly relfection"
+title: "My seventh weekly relfection"
 date: 2018-11-02
 ---
 
