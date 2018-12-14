@@ -18,3 +18,4 @@ This week I started to code my Cuban Flag and it was a very long process because
 (define WIDTH 450)
 (define HEIGHT 290)
 ```
+![Flag Image](/images/flagV2.png)
