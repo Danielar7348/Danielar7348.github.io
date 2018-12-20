@@ -29,20 +29,13 @@ date: 2018-12-21
 
 ## Explain your code.
 
--   Choose a significant part of your program (15 lines max) and paste it below.
--   Explain each argument in the code section. 
--   Tell us how it functions independently and within the whole program 
-
+- 
 * * *
-
 ```
 A significant part of my program is properly plotting the exact measurements of the flag, because the process was not as easy,especially because the flag has certain shapes that isn't as easy to measure and code it. My flags process was a bit hard because I wasn't as sure if I had the right measurements and there was times where I found myself lost and confused because I wasn't sure what the measurements were.
 ```
 
 * * *
-
--   Explain the code you posted by telling us about each argument.
--   Then tell us how your code section fits into the whole.
  
 <!--- Delete this comment and add your writing -->
 
