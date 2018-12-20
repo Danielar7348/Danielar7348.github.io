@@ -51,5 +51,17 @@ Insert 10-15 line code section here _then delete this instruction_
 ## Program code
 
 ```
-Insert entire program here _then delete this instruction_
+(define size 10)
+(put-image (star (* size 6) "solid" "whitesmoke")
+                                 (* size 7) (* size 16)
+(put-image (rotate 270(triangle (* size 30) "solid" "firebrick"))
+                      (* size 12) (* size 14)
+                      (put-image (rectangle  (* size 60) (* size 7) "solid" "whitesmoke")
+                                 (* size 20) (* size 21)
+                                 (put-image (rectangle (* size 60) (* size 7) "solid" "whitesmoke")
+                                           (* size 20) (* size 8) 
+                                            (rectangle WIDTH HEIGHT "solid" "navy")))))
+(define WIDTH (* size 45))
+(define HEIGHT (* size 29))
+
 ```
