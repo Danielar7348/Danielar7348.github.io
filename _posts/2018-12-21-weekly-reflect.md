@@ -37,7 +37,7 @@ date: 2018-12-21
 * * *
 
 ```
-Insert 10-15 line code section here _then delete this instruction_
+A significant part of my program is properly plotting the exact measurements of the flag, because the process was not as easy,especially because the flag has certain shapes that isn't as easy to measure and code it. 
 ```
 
 * * *
