@@ -15,7 +15,7 @@ date: 2018-12-21
 
 ## Current output
 
--   Insert an image that your program currently produces. _then delete this instruction_
+-   Insert an image that your program currently produces. 
 
 * * *
 ![Flag](/images/flag.png)
@@ -23,16 +23,15 @@ date: 2018-12-21
 
 ## Describe your process.
 
--   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
-
+-   What questions, strategies, help from peers or teacher, or thinking got you to this point?
 <!--- Delete this comment and add your writing -->
 
 
 ## Explain your code.
 
--   Choose a significant part of your program (15 lines max) and paste it below. Do not insert your entire program here. _then delete this instruction_
--   Explain each argument in the code section. _then delete this instruction_
--   Tell us how it functions independently and within the whole program _then delete this instruction_
+-   Choose a significant part of your program (15 lines max) and paste it below. Do not insert your entire program here. 
+-   Explain each argument in the code section. 
+-   Tell us how it functions independently and within the whole program 
 
 * * *
 
