@@ -29,7 +29,7 @@ date: 2018-12-21
 
 ## Explain your code.
 
--   Choose a significant part of your program (15 lines max) and paste it below. Do not insert your entire program here. 
+-   Choose a significant part of your program (15 lines max) and paste it below.
 -   Explain each argument in the code section. 
 -   Tell us how it functions independently and within the whole program 
 
