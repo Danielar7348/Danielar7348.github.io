@@ -37,7 +37,7 @@ date: 2018-12-21
 * * *
 
 ```
-A significant part of my program is properly plotting the exact measurements of the flag, because the process was not as easy,especially because the flag has certain shapes that isn't as easy to measure and code it. 
+A significant part of my program is properly plotting the exact measurements of the flag, because the process was not as easy,especially because the flag has certain shapes that isn't as easy to measure and code it. My flags process was a bit hard because I wasn't as sure if I had the right measurements and there was times where I found myself lost and confused because I wasn't sure what the measurements were.
 ```
 
 * * *
